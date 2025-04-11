@@ -1,0 +1,1 @@
+// Full content as shown previously for FavoriteComponent
